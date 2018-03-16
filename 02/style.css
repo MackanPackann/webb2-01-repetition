@@ -1,0 +1,7 @@
+span {
+    background-color: lime;
+}
+
+p:last-child span:last-child {
+    background-color: orange;
+}
