@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.card1 {
+    background-color: aqua;
+    border: 5px solid #b0b;
+    height: 100px;
+    padding: 20px;
+    width: 500px;
+    margin: 10px;
+}
+
+.card2 {
+    background-color: crimson;
+    border: 5px solid #b0b;
+    height: 100px;
+    padding: 20px;
+    width: 500px;
+    margin: 10px;
+}
